@@ -60,7 +60,7 @@ const ContactSection = () => {
               Send me a mail
             </a>
             <a
-              href="https://docs.google.com/document/d/1KTeu_6BiAIe5jwNPkEkzSq5SSt6WLdC02Y9sO0yAJkg/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1TqFfhoMUdPSsjRFKosVScPUiJx4H9twDY5fHq_iKrR4/edit?usp=sharing"
               target="_blank"
               className="px-8 py-3 bg-gray-800 rounded-full font-medium hover:bg-gray-700 transition-colors inline-flex items-center justify-center gap-2 border border-gray-700"
             >

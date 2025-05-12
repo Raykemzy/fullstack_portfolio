@@ -163,7 +163,7 @@ const AppShowcase = () => {
       </div>
       <div className="flex justify-center mt-6 md:py-5">
         <a
-          href="https://docs.google.com/document/d/1KTeu_6BiAIe5jwNPkEkzSq5SSt6WLdC02Y9sO0yAJkg/edit?usp=sharing"
+          href="https://docs.google.com/document/d/1TqFfhoMUdPSsjRFKosVScPUiJx4H9twDY5fHq_iKrR4/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-6 px-6 py-2 text-lg font-semibold rounded-2xl border border-gray-600 text-gray-300 hover:bg-gray-800 transition"
